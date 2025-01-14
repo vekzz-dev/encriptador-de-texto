@@ -1,6 +1,6 @@
 # Encriptador de Texto
 
-¡Bienvenido al proyecto **Encriptador de Texto**! Este proyecto es parte del Challenge Alura Latam y fue desarrollado por @KRFM202. Ofrece una herramienta simple para encriptar y desencriptar texto de manera segura y sencilla.
+¡Bienvenido al proyecto **Encriptador de Texto**! Este proyecto es parte del Challenge Alura Latam. Ofrece una herramienta simple para encriptar y desencriptar texto de manera segura y sencilla.
 
 ## Características
 
